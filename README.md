@@ -1,10 +1,10 @@
 # Cloud_Firestore_CRUD_Tutorials
 
 ## About
-This is the source code for videos in the Python Firebase Cloud Firestore CRUD series: https://www.youtube.com/playlist?list=PLs3IFJPw3G9LW-rGJ8EBMaCd8OxGm_qQe
-Tutorial by Youtube channel: Code First
-Channel: youtube.com/CodeFirstio
-Email: code.first.io@gmail.com
+This is the source code for videos in the Python Firebase Cloud Firestore CRUD series: https://www.youtube.com/playlist?list=PLs3IFJPw3G9LW-rGJ8EBMaCd8OxGm_qQe  
+Tutorial by Youtube channel: Code First  
+Channel: youtube.com/CodeFirstio  
+Email: code.first.io@gmail.com  
 You can ask me questions or just drop a line!
 
 ## What does this code do?
