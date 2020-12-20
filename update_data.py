@@ -13,8 +13,8 @@ db.collection('persons').document("p1").update({"age": 50}) # field already exis
 db.collection('persons').document("p1").update({"age": firestore.Increment(2)}) # increment a field
 db.collection('persons').document("p1").update({"occupation": "engineer"}) # the field will be added
 db.collection('persons').document("p1").update({"occupation": "engineer"})
-db.collection('persons').document("p2").update({"socials": firestore.ArrayRemove('linkedin')})
-db.collection('persons').document("p1").update({"socials": firestore.ArrayUnion('linkedin')})
+db.collection('persons').document("p2").update({"socials": firestore.ArrayRemove(['linkedin'])})
+db.collection('persons').document("p1").update({"socials": firestore.ArrayUnion(['linkedin'])})
 
 
 # Update data with unknown key
